@@ -1,5 +1,3 @@
-Here's an updated description for your GitHub repository with credits and contact details:
-
 ---
 
 # Inventory Management System using Flask
